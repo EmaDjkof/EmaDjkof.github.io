@@ -1,0 +1,6 @@
+<<<PROYECTO CV>>>
+
+Proyecto final Frontend para Ticmas.
+
+Se necesita conexión a internet para que lea el css de bootstrap.
+
